@@ -1,6 +1,7 @@
 /*            PURPOSE : Simple framework for ray-tracing
 
 		PREREQUISITES : matrix.h
+		Author: Prof.beauchemin and Nicole Garcia
  */
 
 
