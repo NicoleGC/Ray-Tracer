@@ -3,6 +3,7 @@
 /*            PURPOSE : Matrix memory allocation and mathematical operations
 
 PREREQUISITES : None
+Author:Prof.Beauchemin
 
 */
 
